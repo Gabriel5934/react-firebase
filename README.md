@@ -7,3 +7,4 @@
 - Firebase
 - TanStack Router
 - Tailwind
+- Heroicons
