@@ -5,5 +5,5 @@
 - React
 - Typescript
 - Firebase
-- TanStack Rounter
+- TanStack Router
 - Tailwind
