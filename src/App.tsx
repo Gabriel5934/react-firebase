@@ -17,13 +17,13 @@ declare module "@tanstack/react-router" {
 
 // TODO Add firebase config
 const firebaseConfig = {
-  apiKey: "AIzaSyBDANtlOKCj36Doj5EfOjyhhphbwSvTUHE",
-  authDomain: "odd-one-61da7.firebaseapp.com",
-  projectId: "odd-one-61da7",
-  storageBucket: "odd-one-61da7.appspot.com",
-  messagingSenderId: "488579380285",
-  appId: "1:488579380285:web:76ae262f5ba25418d92654",
-  measurementId: "G-GG1MWYX93X",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
 };
 
 const app = initializeApp(firebaseConfig);
