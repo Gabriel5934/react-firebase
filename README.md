@@ -8,3 +8,5 @@
 - TanStack Router
 - Tailwind
 - Heroicons
+- Vest
+- DaisyUi
